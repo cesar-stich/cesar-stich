@@ -1,16 +1,32 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy César
 
-<!--
-**cesar-stich/cesar-stich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Estudiante de Ing. de Telecomunicaciones (UNI) | Redes 🌐 • Cloud ☁️ • IA 🤖
 
-Here are some ideas to get you started:
+Soy estudiante del 7mo ciclo en la Universidad Nacional de Ingeniería (UNI), enfocado en la convergencia entre la **infraestructura de redes, Cloud Computing y la Inteligencia Artificial**. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+### 💻 Mi Stack Tecnológico y Áreas de Enfoque
+
+**🌐 Redes, Infraestructura y Seguridad**
+* **Arquitecturas:** SDN (ONOS, OpenFlow 1.3), entornos Dual Stack (IPv4/IPv6).
+* **Routing & Switching:** VLANs, enrutamiento, NAT, ACLs (GNS3, Huawei eNSP).
+* **Seguridad y Auditoría:** Snort (IDS/IPS), Wireshark, Kali Linux.
+
+**☁️ Sistemas & Cloud**
+* **OS:** Arquitectura de sistemas Linux, FHS, Bash Scripting, gestión de procesos.
+* **Cloud (AWS):** Cómputo (EC2, Lambda), Bases de datos (RDS, DynamoDB), Redes (VPC, Route 53).
+* **Infraestructura como Código (IaC):** CloudFormation.
+
+**🚀 Innovación & Desarrollo**
+* **Backend & BD:** Supabase, Firebase.
+* **IA & Low-Code:** Google AI Studio, Stitch, Antigravity, Claude Code.
+
+
+---
+
+### 📫 Conecta conmigo
+* [LinkedIn](https://www.linkedin.com/in/cesar-augusto-caqui-vásquez-5b2648302/)
+
+
