@@ -45,5 +45,5 @@ Stack: Python, LLMs.
 
 ### 📫 Conecta conmigo
 
-* LinkedIn: [https://www.linkedin.com/in/cesar-augusto-caqui-vásquez-5b2648302/](https://www.linkedin.com/in/cesar-augusto-caqui-vásquez-5b2648302/)
+* * LinkedIn: [linkedin.com/in/cesar-caqui-vasquez](https://www.linkedin.com/in/cesar-caqui-vasquez/)
 
