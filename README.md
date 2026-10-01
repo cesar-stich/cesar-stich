@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy César
+# ¡Hola! 👋 Soy Cesar
 
 ### Estudiante de Ing. de Telecomunicaciones (UNI) | Redes 🌐 • Cloud ☁️ • IA 🤖
 
